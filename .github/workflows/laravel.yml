@@ -33,5 +33,4 @@ jobs:
         passive: true
         port: 21
         ssl: false
-
-  run: vendor/bin/phpunit
+  
