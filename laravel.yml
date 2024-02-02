@@ -34,6 +34,5 @@ jobs:
         root: /home/bilawale/zapher.co.uk/ali
         passive: true
         port: 21
-        ssl: false
 
       run: vendor/bin/phpunit
